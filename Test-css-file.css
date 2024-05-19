@@ -1,1 +1,13 @@
 /* // this is test css files. */
+* {
+  paddimg: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  list-styling: none;
+}
+
+.container {
+  width: 100px;
+  height: 50px;
+  background-color: black;
+}

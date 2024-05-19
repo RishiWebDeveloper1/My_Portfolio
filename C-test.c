@@ -1,12 +1,12 @@
 #include<stdio.h>
-#include<conio.h>
+// #include<conio.h>
 
 void main() {
-  clrscr();
+//   clrscr();
+    int var1 = 10;
 
-  int var1 = 10;
-
-  while( i < 100 ) {
-      i = i+10;
-      printf("%d", i);
+    while( var1 <= 100 ) {
+        printf("%d\n", var1);
+        var1 = var1+10;
+    }
 }

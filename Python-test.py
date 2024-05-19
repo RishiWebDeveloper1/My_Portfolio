@@ -1,7 +1,7 @@
-# this is test python template
-h
-f
-ft
-gg king
-rishi mom
-r
+import os
+
+print(os.listdir())
+for i in range(10):
+  print(i)
+
+print("task is done")

@@ -5,3 +5,6 @@ for i in range(10):
   print(i)
 
 print("task is done")
+
+def show():
+  print("Show function is working")

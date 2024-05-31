@@ -11,3 +11,4 @@ def show():
   print("Show function is working")
 
 show()
+show()
